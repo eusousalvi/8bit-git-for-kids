@@ -1,6 +1,6 @@
 # 8bit Git for kids
 
-I introduce my nephew on the Web Development then I made this simple git workflow to help him and any other kids who wants to start with git 😊
+I introduced my nephew on the Web Development and then created this simple git workflow to help him and any other kids who wants to get started with git 😊
 
 To get the PDF version, [click here.](https://drive.google.com/file/d/1y4liYavPVCU4_cxsQPUjGftWnfopw0ZL/view) 📄
 
