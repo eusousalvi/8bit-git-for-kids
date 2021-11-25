@@ -6,4 +6,5 @@ To get the PDF version, [click here.](https://drive.google.com/file/d/1y4liYavPV
 
 Follow me on [socials](https://linktr.ee/eusousalvi) ! ❣
 
-![Cheat Sheet](https://user-images.githubusercontent.com/66268621/143482958-6e2ccbb9-af26-4f6b-b2d2-337be5eb0073.png)
+
+![Cheat Sheet](https://user-images.githubusercontent.com/66268621/143483172-6c33c962-5d5c-4c15-bb5d-b2bbf2bbd624.png)
